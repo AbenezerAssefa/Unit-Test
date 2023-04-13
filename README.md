@@ -8,7 +8,5 @@
 
 # Getting Started
 
-- To install Jest run `                      npm install --save-dev jest
-                    `
-- To run the test `                      npm test
-                    `
+- To install Jest run `npm install --save-dev jest `
+- To run the test `npm test`
